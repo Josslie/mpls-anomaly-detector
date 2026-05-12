@@ -1,0 +1,7 @@
+,latency_ms,latency_ms,latency_ms,jitter_ms,jitter_ms,jitter_ms,loss_pct,loss_pct,loss_pct,cpu_pct,cpu_pct,cpu_pct,utilization_pct,utilization_pct,utilization_pct
+,mean,max,min,mean,max,min,mean,max,min,mean,max,min,mean,max,min
+event,,,,,,,,,,,,,,,
+link_degradation,8.29,8.29,8.29,0.45,0.45,0.45,0.0,0.0,0.0,58.96,58.96,58.96,5.46,5.46,5.46
+link_failure,26.33,26.33,26.33,0.55,0.55,0.55,11.58,11.58,11.58,40.6,40.6,40.6,8.77,8.77,8.77
+normal,3.04,4.99,1.0,1.05,2.0,0.11,0.0,0.0,0.0,25.15,40.0,10.01,6.21,12.6,1.09
+traffic_spike,12.41,12.41,12.41,1.11,1.11,1.11,0.0,0.0,0.0,52.28,52.28,52.28,7.5,7.5,7.5
